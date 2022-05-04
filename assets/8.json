@@ -1,0 +1,12 @@
+{
+  "name": "NFT #09",
+  "symbol": "MyNFT",
+  "description": "collection of 10 cartoon characters",
+  "seller_fee_basis_points": 500,
+  "image": "8.png",
+  "properties": {
+    "creators": [{ "address": "8axsndhDbLNbQtYzMCRMmDEsf2oAvXngfDKo7aGuMuXB", "share": 100 }],
+    "files": [{ "uri": "8.png", "type": "image/png" }]
+  },
+  "collection": { "name": "FunCartoon", "family": "FunCartoon" }
+}
